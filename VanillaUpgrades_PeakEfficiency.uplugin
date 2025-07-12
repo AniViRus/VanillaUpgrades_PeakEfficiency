@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.0.1",
 	"FriendlyName": "Vanilla Upgrades - Peak Efficiency",
 	"Description": "Adds Pipeline Mk.3 (supported by Heavy Fluid Overhaul) and increases Belt Mk.6 speed",
 	"Category": "Modding",
@@ -19,8 +19,13 @@
 			"Name": "SML",
 			"Enabled": true,
 			"SemVersion": "^3.11.1"
+		},
+		{
+			"Name": "HeavyFluids",
+			"Enabled": true,
+			"SemVersion": "^1.4.3"
 		}
 	],
-	"SemVersion": "1.0.0",
+	"SemVersion": "1.0.1",
 	"GameVersion": ">=416835"
 }
